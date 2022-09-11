@@ -36,15 +36,15 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.78070299"
-     inkscape:cx="465.60601"
-     inkscape:cy="395.79713"
+     inkscape:zoom="0.94557542"
+     inkscape:cx="491.23527"
+     inkscape:cy="359.56941"
      inkscape:window-width="1920"
      inkscape:window-height="1053"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      units="in"
      scale-x="10" />
   <defs
@@ -77,16 +77,16 @@
        sodipodi:nodetypes="cccc" />
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:2.72385px;line-height:1;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Bold';letter-spacing:0px;word-spacing:0px;stroke-width:0.204288"
+       style="font-weight:bold;font-size:2.11666671px;line-height:1;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Bold';letter-spacing:0px;word-spacing:0px;stroke-width:0.204288"
        x="33.904827"
        y="-24.613203"
        id="text106309"
        transform="rotate(90)"><tspan
          sodipodi:role="line"
          id="tspan106307"
-         style="font-size:2.72385px;fill:#ffffff;stroke-width:0.204288"
+         style="fill:#ffffff;stroke-width:0.204288;font-size:2.11666671px"
          x="33.904827"
-         y="-24.613203">1988 BLOCKBUSTER Entertainment Corporation, Dallas, Texas 75238</tspan></text>
+         y="-24.613203">1988 BLOCKBUSTER Entertainment Corporation, Dallas, Texas 75238.  Reproduction by Ryan Finnie (www.finnie.org), CC-BY-SA.</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#ecac10;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 29.003616,31.427531 10e-4,153.261129 82.001624,-0.004 -0.006,-154.515069"
@@ -230,7 +230,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Originals"
-     style="display:inline">
+     style="display:none">
     <g
        inkscape:groupmode="layer"
        id="layer5"
@@ -416,7 +416,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Rendered"
-     style="display:none">
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer6"
