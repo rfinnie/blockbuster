@@ -39,6 +39,6 @@ Blockbuster also used VHS clamshells for SNES and Genesis distribution.  In thes
 
 ## Author
 
-Reproduction created by [Ryan Finnie](https://www.finnie.org/). I'm not sure about the legal standing of a design semi-reproduction of a defunct company, but this template is license CC-BY-SA, to the extent it can be licensed.
+Reproduction created by [Ryan Finnie](https://www.finnie.org/). I'm not sure about the legal standing of a design semi-reproduction of a defunct company, but this template is licensed CC-BY-SA 4.0 International, to the extent it can be licensed.
 
 By the way, the location depicted on the template in Green Bay is a location I have pleasant memories of, having competed in the Blockbuster World Video Game Championships II competition in 1995, playing on the [Donkey Kong Country Competition Cartridge](https://www.mariowiki.com/Donkey_Kong_Country_Competition_Cartridge). I finished second place in the Nintendo division for that store.
