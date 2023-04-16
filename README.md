@@ -2,13 +2,13 @@
 
 ![Blockbuster Video VHS insert template](blockbuster-vhs.png "Blockbuster Video VHS insert template")
 
-This is an editable Inkscape template for a Blockbuster Video VHS clamshell case insert.  Please note that this doesn't strive to be 100% accurate to any specific Blockbuster design, as they made incremental design changes to their clamshells over the years.  Instead, it's mean to be a good enough period piece of late 80s through 90s.
+This is an editable Inkscape template for a Blockbuster Video VHS clamshell case insert.  Please note that this doesn't strive to be 100% accurate to any specific Blockbuster design, as they made incremental design changes to their clamshells over the years.  Instead, it's meant to be a good enough period piece of late 80s through 90s.
 
 ## Notes
 
 The fields you'd want to change are all in Liberation Sans and Liberation Sans Narrow fonts, but if you don't have them, similar sans-serif fonts should work fine.
 
-The back blurb area is Nimbus Mono PS font, but again, any typewriter-like monospace font should be fine. I've also seen "The Blockbuster difference" blurb in a sans-serif font.  Later on in the 90s, this space tended to be used for actual movie information, in a sans-serif font.
+The back blurb area is Nimbus Mono PS font, but again, any typewriter-like monospace font should be fine. I've also seen "The BLOCKBUSTER difference" blurb in a sans-serif font.  Later on in the 90s, this space tended to be used for actual movie information, in a sans-serif font.
 
 The "BLOCKBUSTER VIDEO" logo font is ITC Machine Std and the barcode is Libre Barcode 128. I've broken these out to separate layers which have alternate layers which are "pre-rendered", so you do not need the fonts.
 
@@ -35,7 +35,7 @@ A hidden layer outlines where the spine is in relation to the elements, for alig
 
 For an authentic Blockbuster case experience, take the "Barcodes" and "Fillable text" layers, group them all together, and shift them by a random amount relative to the base design, before printing.
 
-Blockbuster also used VHS clamshells for SNES and Genesis distribution.  In these cases, the category is "GAMES NINTENDO SNES" or "GAMES SEGA GENESIS", rating "N/A".
+Blockbuster also used VHS clamshells for SNES and Genesis cartridge distribution.  In these cases, the category is "GAMES SNES" or "GAMES GENESIS", rating "N/A". The title will likely have "SNES-" or "GENESIS-" prefixing the actual game title.
 
 ## Author
 
